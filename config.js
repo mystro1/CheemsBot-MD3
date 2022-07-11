@@ -1,26 +1,3 @@
-//════════════════════════════//
-//If you want to recode, reupload
-//or copy the codes/script,
-//pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
-//════════════════════════════//
-//recode kar ke youtube pe upload kar rhe ya
-//codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
-//════════════════════════════//
-
 const fs = require("fs")
 const chalk = require("chalk")
 
@@ -41,26 +18,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['0707057652'] //ur owner number
+global.ownername = "Mystro younes"
+global.ytname = "Mystro youness" //ur yt chanel name
+global.socialm = "https://web.facebook.com/theMaestro2021" //ur github or insta name
+global.location = "MOROCCO" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Maistro Bot" //ur bot name
+global.websitex = "https://www.youtube.com/channel/UCFktItsqvHj_TtTwNixdQbQ" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "Msr Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "🦄Dream Maistro"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.ownertag = ['0707057652'] //ur owner tag
+global.ownernummenu = ['0707057652'] //ur owner number in menu and all
+global.watermark = "MAISTRO Bot Inc." //ur watermark
+global.botscript = "https://www.youtube.com/channel/UCFktItsqvHj_TtTwNixdQbQ"
+global.linkz1 = "https://chat.whatsapp.com/CH3GxWnu4U9ATKmSdeX7HG"
+global.linkz2 = "https://chat.whatsapp.com/CH3GxWnu4U9ATKmSdeX7HG"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -132,7 +109,7 @@ global.APIs = {
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'e08c1daf62',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
