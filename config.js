@@ -27,7 +27,7 @@ global.location = "MOROCCO" //ur location
 //bot bombdy
 global.botname = "Maistro Bot" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UCFktItsqvHj_TtTwNixdQbQ" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
+global.vidmenu = { url: 'https://a.uguu.se/lRiTSZbH.gif' } //gif and video menu
 global.packname = "Msr Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Dream Maistro"
 global.themeemoji = "🐶"
